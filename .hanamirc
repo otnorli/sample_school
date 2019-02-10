@@ -1,0 +1,3 @@
+project=sample_school
+test=rspec
+template=erb
